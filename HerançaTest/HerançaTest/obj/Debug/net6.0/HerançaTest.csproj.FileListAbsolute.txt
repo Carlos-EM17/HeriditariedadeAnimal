@@ -1,0 +1,15 @@
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\bin\Debug\net6.0\HerançaTest.exe
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\bin\Debug\net6.0\HerançaTest.deps.json
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\bin\Debug\net6.0\HerançaTest.runtimeconfig.json
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\bin\Debug\net6.0\HerançaTest.dll
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\bin\Debug\net6.0\HerançaTest.pdb
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.csproj.AssemblyReference.cache
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.AssemblyInfoInputs.cache
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.AssemblyInfo.cs
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.csproj.CoreCompileInputs.cache
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.dll
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\refint\HerançaTest.dll
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.pdb
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\HerançaTest.genruntimeconfig.cache
+C:\Users\Tania\source\repos\HerançaTest\HerançaTest\obj\Debug\net6.0\ref\HerançaTest.dll
